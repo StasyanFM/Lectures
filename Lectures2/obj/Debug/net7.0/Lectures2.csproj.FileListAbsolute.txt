@@ -1,0 +1,15 @@
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\bin\Debug\net7.0\Lectures2.exe
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\bin\Debug\net7.0\Lectures2.deps.json
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\bin\Debug\net7.0\Lectures2.runtimeconfig.json
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\bin\Debug\net7.0\Lectures2.dll
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\bin\Debug\net7.0\Lectures2.pdb
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\Lectures2.csproj.AssemblyReference.cache
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\Lectures2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\Lectures2.AssemblyInfoInputs.cache
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\Lectures2.AssemblyInfo.cs
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\Lectures2.csproj.CoreCompileInputs.cache
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\Lectures2.dll
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\refint\Lectures2.dll
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\Lectures2.pdb
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\Lectures2.genruntimeconfig.cache
+D:\Users\Стась\Desktop\C#\Lectures\Lectures2\obj\Debug\net7.0\ref\Lectures2.dll
