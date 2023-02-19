@@ -15,8 +15,10 @@
 // }
 
 // Method1();
+// __________________________________________________________________________
 
 // Метод 2
+
 // void Method2(string msg)
 // {
 //     Console.WriteLine(msg);
@@ -37,6 +39,7 @@
 // ___________________________________
 
 // Метод 3
+
 // int Method3()
 // {
 //     return DateTime.Now.Year;
@@ -46,6 +49,7 @@
 // _______________________________
 
 // Метод 4
+
 // string Method4 (int count, string text)
 // {
 //     int i = 0;
@@ -64,19 +68,20 @@
 // _______________________________________________________________________
 
 //  Цикл FOR (с встроенным счетчиком)
-string Method4(int count, string text)
-{
-    string result = String.Empty;
 
-    for (int i = 0; i < count; i++)
-    {
-        result = result + text;
-    }
-    return result;
-}
+// string Method4(int count, string text)
+// {
+//     string result = String.Empty;
 
-string res = Method4(10, "z");
-Console.WriteLine(res);
+//     for (int i = 0; i < count; i++)
+//     {
+//         result = result + text;
+//     }
+//     return result;
+// }
+
+// string res = Method4(10, "z");
+// Console.WriteLine(res);
 // _______________________________________________________________________
 
 // Цикл в цикле
