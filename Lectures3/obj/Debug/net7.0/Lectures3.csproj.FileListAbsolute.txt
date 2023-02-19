@@ -1,0 +1,15 @@
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\bin\Debug\net7.0\Lectures3.exe
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\bin\Debug\net7.0\Lectures3.deps.json
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\bin\Debug\net7.0\Lectures3.runtimeconfig.json
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\bin\Debug\net7.0\Lectures3.dll
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\bin\Debug\net7.0\Lectures3.pdb
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\Lectures3.csproj.AssemblyReference.cache
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\Lectures3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\Lectures3.AssemblyInfoInputs.cache
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\Lectures3.AssemblyInfo.cs
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\Lectures3.csproj.CoreCompileInputs.cache
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\Lectures3.dll
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\refint\Lectures3.dll
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\Lectures3.pdb
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\Lectures3.genruntimeconfig.cache
+D:\Users\Стась\Desktop\C#\Lectures\Lectures3\obj\Debug\net7.0\ref\Lectures3.dll
